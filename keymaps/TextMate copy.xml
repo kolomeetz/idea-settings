@@ -7,7 +7,6 @@
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
-  <action id="EditorChooseLookupItem" />
   <action id="Images.Thumbnails.EnterAction" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
