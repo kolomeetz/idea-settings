@@ -1,0 +1,37 @@
+<code_scheme name="Default (1)">
+  <option name="RIGHT_MARGIN" value="80" />
+  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <option name="HTML_KEEP_BLANK_LINES" value="1" />
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="HTML">
+    <option name="WRAP_ON_TYPING" value="0" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="RHTML">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Slim">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ruby">
+    <option name="INDENT_WHEN_CASES" value="false" />
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="USE_RELATIVE_INDENTS" value="false" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
