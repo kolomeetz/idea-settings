@@ -1,0 +1,22 @@
+<keymap version="1" name="TextMate copy 0" parent="TextMate">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="com.vladsch.idea.multimarkdown.editor.actions.editorLayout.ToggleSplitLayoutChangeAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
+</keymap>
