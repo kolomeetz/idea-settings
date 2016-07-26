@@ -1488,11 +1488,13 @@
     </library>
     <library name="bcrypt (v3.1.10, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.10" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bcrypt-3.1.10/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bcrypt-3.1.10/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.10" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.10" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bcrypt-3.1.10/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bcrypt-3.1.10/lib" />
@@ -2126,10 +2128,12 @@
     </library>
     <library name="bson_ext (v1.12.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson_ext/1.12.5" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bson_ext/1.12.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bson_ext-1.12.5/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson_ext/1.12.5" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bson_ext/1.12.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bson_ext-1.12.5/ext" />
       </SOURCES>
@@ -7200,12 +7204,14 @@
     </library>
     <library name="hitimes (v1.2.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/hitimes/1.2.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/hitimes/1.2.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/hitimes-1.2.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/hitimes-1.2.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/hitimes-1.2.2/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/hitimes/1.2.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/hitimes/1.2.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/hitimes-1.2.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/hitimes-1.2.2/lib" />
@@ -8518,6 +8524,7 @@
     </library>
     <library name="json (v1.8.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/json-1.8.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/json-1.8.3/lib" />
@@ -8528,6 +8535,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/json-1.8.3/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/json-1.8.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/json-1.8.3/lib" />
@@ -10188,6 +10196,7 @@
     </library>
     <library name="msgpack (v0.7.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/0.7.5" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/msgpack/0.7.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/msgpack-0.7.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/msgpack-0.7.5/lib" />
@@ -10195,6 +10204,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/msgpack-0.7.5/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/0.7.5" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/msgpack/0.7.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/msgpack-0.7.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/msgpack-0.7.5/lib" />
@@ -11052,11 +11062,13 @@
     </library>
     <library name="oj (v2.14.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.14.5" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/oj/2.14.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/oj-2.14.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/oj-2.14.5/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.14.5" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/oj/2.14.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/oj-2.14.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/oj-2.14.5/lib" />
@@ -12222,6 +12234,7 @@
     </library>
     <library name="puma (v2.16.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/2.16.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/puma/2.16.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/puma-2.16.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/puma-2.16.0/ext" />
@@ -12229,6 +12242,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/puma-2.16.0/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/2.16.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/puma/2.16.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/puma-2.16.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/puma-2.16.0/ext" />
@@ -13588,12 +13602,14 @@
     </library>
     <library name="rb-fsevent (v0.9.7, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.7" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rb-fsevent/0.9.7" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.7" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rb-fsevent/0.9.7" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext" />
@@ -13656,6 +13672,7 @@
     </library>
     <library name="rbtrace (v0.4.8, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rbtrace/0.4.8" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rbtrace/0.4.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rbtrace-0.4.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rbtrace-0.4.8/ext" />
@@ -13663,6 +13680,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rbtrace-0.4.8/tracers" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rbtrace/0.4.8" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rbtrace/0.4.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rbtrace-0.4.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rbtrace-0.4.8/ext" />
@@ -14642,12 +14660,14 @@
     </library>
     <library name="ruby-prof (v0.15.9, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ruby-prof/0.15.9" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ruby-prof/0.15.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-prof-0.15.9/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-prof-0.15.9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-prof-0.15.9/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ruby-prof/0.15.9" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ruby-prof/0.15.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-prof-0.15.9/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-prof-0.15.9/ext" />
@@ -16538,6 +16558,7 @@
     </library>
     <library name="thin (v1.6.4, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thin/1.6.4" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/thin/1.6.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/thin-1.6.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/thin-1.6.4/ext" />
@@ -16545,6 +16566,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/thin-1.6.4/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thin/1.6.4" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/thin/1.6.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/thin-1.6.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/thin-1.6.4/ext" />
@@ -17546,6 +17568,7 @@
     </library>
     <library name="yajl-ruby (v1.2.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.2.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/yajl-ruby/1.2.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/yajl-ruby-1.2.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/yajl-ruby-1.2.1/lib" />
@@ -17554,6 +17577,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/yajl-ruby-1.2.1/benchmark" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.2.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/yajl-ruby/1.2.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/yajl-ruby-1.2.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/yajl-ruby-1.2.1/lib" />
