@@ -1466,6 +1466,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/backports-3.6.7/set_version" />
       </SOURCES>
     </library>
+    <library name="backports (v3.6.8, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/backports-3.6.8/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/backports-3.6.8/set_version" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/backports-3.6.8/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/backports-3.6.8/set_version" />
+      </SOURCES>
+    </library>
     <library name="backports (v3.6.8, RVM: ruby-2.2.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/backports-3.6.8/lib" />
@@ -15648,6 +15658,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/sinatra-contrib-1.4.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="sinatra-contrib (v1.4.7, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sinatra-contrib-1.4.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sinatra-contrib-1.4.7/lib" />
       </SOURCES>
     </library>
     <library name="sixarm_ruby_unaccent (v1.1.1, ruby-2.3.1-p112) [gem]">
