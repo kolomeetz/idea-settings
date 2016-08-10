@@ -14334,6 +14334,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rerun-0.10.0/icons" />
       </SOURCES>
     </library>
+    <library name="rerun (v0.11.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rerun-0.11.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rerun-0.11.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rerun-0.11.0/icons" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rerun-0.11.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rerun-0.11.0/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rerun-0.11.0/icons" />
+      </SOURCES>
+    </library>
     <library name="rerun (v0.11.0, RVM: ruby-2.2.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rerun-0.11.0/bin" />
