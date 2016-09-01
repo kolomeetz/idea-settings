@@ -8556,6 +8556,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jbuilder-2.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="jbuilder (v2.6.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jbuilder-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jbuilder-2.6.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jbuilder-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jbuilder-2.6.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="jimson-temp (v0.9.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jimson-temp-0.9.5/lib" />
@@ -17054,6 +17064,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sprockets-3.6.2/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets (v3.7.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sprockets-3.7.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sprockets-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sprockets-3.7.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sprockets-3.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets-rails (v2.2.4, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sprockets-rails-2.2.4/lib" />
@@ -17140,6 +17160,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sprockets-rails-3.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v3.1.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sprockets-rails-3.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sprockets-rails-3.1.1/lib" />
       </SOURCES>
     </library>
     <library name="sprockets-rails-3.0.4 (v3.0.4, RVM: ruby-2.2.1) [gem]">
@@ -18056,6 +18084,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/turbolinks-2.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="turbolinks (v5.0.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/turbolinks-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/turbolinks-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="turbolinks-source (v5.0.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/turbolinks-source-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/turbolinks-source-5.0.0/lib" />
       </SOURCES>
     </library>
     <library name="twitter (v5.16.0, ruby-2.3.1-p112) [gem]">
