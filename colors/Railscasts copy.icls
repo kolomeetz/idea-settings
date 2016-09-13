@@ -13356,7 +13356,8 @@
     </option>
     <option name="RUBY_INTERPOLATED_STRING">
       <value>
-        <option name="FOREGROUND" value="a5c261" />
+        <option name="FOREGROUND" value="b1e315" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
@@ -13413,7 +13414,7 @@
     </option>
     <option name="RUBY_STRING">
       <value>
-        <option name="FOREGROUND" value="a5c261" />
+        <option name="FOREGROUND" value="97b35b" />
       </value>
     </option>
     <option name="RUBY_SYMBOL">
