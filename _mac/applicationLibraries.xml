@@ -8688,6 +8688,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/ipaddress-0.8.3/lib" />
       </SOURCES>
     </library>
+    <library name="iso8601 (v0.9.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/iso8601-0.9.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/iso8601-0.9.1/lib" />
+      </SOURCES>
+    </library>
     <library name="jbuilder (v1.5.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jbuilder-1.5.3/lib" />
@@ -11508,6 +11516,14 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="net_http_timeout_errors (v0.3.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/net_http_timeout_errors-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/net_http_timeout_errors-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="netrc (v0.10.3, ruby-2.0.0-p648) [gem]">
