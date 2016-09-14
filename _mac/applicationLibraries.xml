@@ -12352,6 +12352,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/open_exchange_rates-0.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="open_exchange_rates (v0.5.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/open_exchange_rates-0.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/open_exchange_rates-0.5.1/lib" />
+      </SOURCES>
+    </library>
     <library name="opengraph_parser (v0.2.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/opengraph_parser-0.2.3/lib" />
