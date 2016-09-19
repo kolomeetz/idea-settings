@@ -14244,6 +14244,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rails-assets-ng-file-upload-12.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="rails-controller-testing (v1.0.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rails-controller-testing-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rails-controller-testing-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
