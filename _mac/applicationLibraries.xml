@@ -7780,6 +7780,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/guard-rspec-4.7.3/gemfiles" />
       </SOURCES>
     </library>
+    <library name="guard-rubocop (v1.2.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/guard-rubocop-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/guard-rubocop-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="guard-rubocop (v1.2.0, RVM: ruby-2.2.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/guard-rubocop-1.2.0/lib" />
@@ -12824,6 +12832,16 @@
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/parser-2.3.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.3.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.3.1.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.3.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.3.1.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.3.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="parsley-rails (v2.0.7.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parsley-rails-2.0.7.0/lib" />
@@ -16272,6 +16290,20 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.42.0/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.43.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.43.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.43.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.43.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.43.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.43.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.43.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.43.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.43.0/config" />
+      </SOURCES>
+    </library>
     <library name="rubocop-0.37.2 (v0.37.2, RVM: ruby-2.2.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rubocop-0.37.2/bin" />
@@ -19240,6 +19272,16 @@
       <SOURCES>
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.1.0/lib" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.1.0/data" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.1.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.1.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.1.1/data" />
       </SOURCES>
     </library>
     <library name="unicode_utils (v1.4.0, ruby-2.3.1-p112) [gem]">
