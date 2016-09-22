@@ -10,6 +10,7 @@
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="r" type="PLAIN_TEXT" />
       <mapping pattern="guest/header/header" type="Sass" />
       <mapping pattern="privacy" type="YAML" />
