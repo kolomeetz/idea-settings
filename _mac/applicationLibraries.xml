@@ -2578,6 +2578,14 @@
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/man" />
       </SOURCES>
     </library>
+    <library name="bundler-unload (v1.0.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bundler-unload-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bundler-unload-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.2.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/bundler-unload-1.0.2/lib" />
@@ -5344,6 +5352,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/execjs-2.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="executable-hooks (v1.3.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/executable-hooks-1.3.2/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/executable-hooks-1.3.2/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/executable-hooks-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/executable-hooks-1.3.2/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/executable-hooks-1.3.2/ext" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/executable-hooks-1.3.2/lib" />
       </SOURCES>
     </library>
     <library name="executable-hooks (v1.3.2, RVM: ruby-2.2.1 [global]) [gem]">
@@ -8472,6 +8492,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/inflecto-0.0.2/config" />
       </SOURCES>
     </library>
+    <library name="infoboxer (v0.2.6, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/infoboxer-0.2.6/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/infoboxer-0.2.6/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/infoboxer-0.2.6/profile" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/infoboxer-0.2.6/regression" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/infoboxer-0.2.6/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/infoboxer-0.2.6/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/infoboxer-0.2.6/profile" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/infoboxer-0.2.6/regression" />
+      </SOURCES>
+    </library>
     <library name="infuser (v1.0.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/infuser-1.0.0/lib" />
@@ -10404,6 +10438,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/marionette-rails-2.4.4/vendor" />
       </SOURCES>
     </library>
+    <library name="mediawiktory (v0.0.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/mediawiktory-0.0.2/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/mediawiktory-0.0.2/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/mediawiktory-0.0.2/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/mediawiktory-0.0.2/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/mediawiktory-0.0.2/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/mediawiktory-0.0.2/script" />
+      </SOURCES>
+    </library>
     <library name="memoist (v0.14.0, RVM: ruby-2.2.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/memoist-0.14.0/lib" />
@@ -12288,6 +12334,18 @@
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/oj-2.12.13/lib" />
       </SOURCES>
     </library>
+    <library name="oj (v2.12.14, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.12.14" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/oj-2.12.14/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/oj-2.12.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.12.14" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/oj-2.12.14/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/oj-2.12.14/lib" />
+      </SOURCES>
+    </library>
     <library name="oj (v2.14.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/2.14.5" />
@@ -13744,6 +13802,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/pure-css-rails-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/pure-css-rails-0.6.0/vendor" />
+      </SOURCES>
+    </library>
+    <library name="quandl (v1.0.3, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/quandl-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/quandl-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="queue_classic (v3.1.0, RVM: ruby-2.2.1 [global]) [gem]">
@@ -15538,6 +15604,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/react-rails-1.8.2/lib" />
       </SOURCES>
     </library>
+    <library name="reality (v0.0.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/reality-0.0.4/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/reality-0.0.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/reality-0.0.4/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/reality-0.0.4/config" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/reality-0.0.4/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/reality-0.0.4/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/reality-0.0.4/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/reality-0.0.4/data" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/reality-0.0.4/config" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/reality-0.0.4/script" />
+      </SOURCES>
+    </library>
     <library name="redcarpet (v3.3.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/redcarpet-3.3.1/bin" />
@@ -15928,6 +16010,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rest-client-1.6.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rest-client-1.6.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="rest-client (v1.8.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rest-client-1.8.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rest-client-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rest-client-1.8.0/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rest-client-1.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rest-client (v1.8.0, RVM: ruby-2.2.1) [gem]">
@@ -16480,6 +16572,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-progressbar-1.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-sun-times (v0.1.5, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/ruby-sun-times-0.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/ruby-sun-times-0.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-trello (v1.4.1, RVM: ruby-2.2.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/ruby-trello-1.4.1/lib" />
@@ -16592,6 +16692,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/ruby_parser-3.8.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/ruby_parser-3.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubygems-bundler (v1.4.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rubygems-bundler-1.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/rubygems-bundler-1.4.4/lib" />
       </SOURCES>
     </library>
     <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.2.1 [global]) [gem]">
@@ -18414,6 +18522,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/terminal-table-1.5.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="terminal-table (v1.7.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/terminal-table-1.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/terminal-table-1.7.2/lib" />
       </SOURCES>
     </library>
     <library name="test-unit (v2.0.0.0, ruby-2.0.0-p648) [gem]">
