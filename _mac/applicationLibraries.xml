@@ -2578,6 +2578,20 @@
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.13.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.13.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.13.1/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.13.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.13.1/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.13.1/bin" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.13.1/exe" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.13.1/lib" />
+        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.13.1/man" />
+      </SOURCES>
+    </library>
     <library name="bundler-unload (v1.0.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/bundler-unload-1.0.2/lib" />
