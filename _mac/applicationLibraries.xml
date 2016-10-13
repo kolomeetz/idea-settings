@@ -2378,6 +2378,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/browser_details-0.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="browserify-rails (v1.0.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/browserify-rails-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/browserify-rails-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="bson (v1.12.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bson-1.12.5/bin" />
