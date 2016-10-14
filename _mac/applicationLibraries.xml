@@ -14344,6 +14344,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/gems/rails-4.2.5.2/guides" />
       </SOURCES>
     </library>
+    <library name="rails-assets-almond (v0.3.3, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rails-assets-almond-0.3.3/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rails-assets-almond-0.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rails-assets-almond-0.3.3/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rails-assets-almond-0.3.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-assets-angucomplete-alt (v2.4.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rails-assets-angucomplete-alt-2.4.1/app" />
