@@ -1332,6 +1332,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/arel-7.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="arel (v7.1.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/arel-7.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/arel-7.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="arel (v7.1.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/arel-7.1.2/lib" />
@@ -2392,6 +2400,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/browserify-rails-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="browserify-rails (v3.1.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/browserify-rails-3.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/browserify-rails-3.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="browserify-rails (v3.2.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/browserify-rails-3.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/browserify-rails-3.2.0/lib" />
       </SOURCES>
     </library>
     <library name="bson (v1.12.5, ruby-2.3.1-p112) [gem]">
@@ -12146,6 +12170,7 @@
     </library>
     <library name="nokogiri (v1.6.8.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.6.8.1/lib" />
@@ -12154,6 +12179,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.6.8.1/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.6.8.1/lib" />
