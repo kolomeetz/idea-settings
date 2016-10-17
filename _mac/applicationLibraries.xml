@@ -11416,6 +11416,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/msgpack-1.0.0/doclib" />
       </SOURCES>
     </library>
+    <library name="mturk (v1.9.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mturk-1.9.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mturk-1.9.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mturk-1.9.1/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mturk-1.9.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mturk-1.9.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mturk-1.9.1/samples" />
+      </SOURCES>
+    </library>
     <library name="multi_json (v1.11.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/multi_json-1.11.1/lib" />
